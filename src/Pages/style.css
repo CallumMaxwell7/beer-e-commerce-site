@@ -1,0 +1,48 @@
+body{
+    background-color: crimson;
+}
+.header{
+    
+    color: skyblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    text-align: center;
+}
+.pageName{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.intro{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px; 
+}
+.contact-form{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+.submit{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+    font-size: 22px;
+}
+.reviews{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.beers{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}  
+.add{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+    font-size: 22px;   
+}
